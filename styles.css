@@ -1,0 +1,16 @@
+body {
+    font-family: 'Quicksand', sans-serif;
+    background-color: #f7f7f7;
+}
+
+h1 {
+    color: #007BFF;
+}
+
+.card {
+    border-radius: 10px;
+}
+
+.table-responsive {
+    overflow-x: auto;
+}
